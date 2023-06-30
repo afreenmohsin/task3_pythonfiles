@@ -5,5 +5,5 @@ def my_func():
     del b
     return a
 
-if __init__ == "__main__":
+if __name__ == "__main__":
     my_func()
