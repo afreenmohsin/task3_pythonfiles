@@ -6,4 +6,4 @@ def my_func():
     return a
 
 if __init__ == "__main__":
-    my_funct()
+    my_func()
